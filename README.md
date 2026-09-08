@@ -1,4 +1,4 @@
-# ECON452---PROJECT
+# ECON452-PROJECT
 
 ## **Introduction**
 
